@@ -1,6 +1,6 @@
 # Marker-Based Extrinsic Calibration Method for Accurate Multi-Camera 3D Reconstruction
 
-Project Page:[Tech4Diet](https://tech4d.ua.es/) \
+Project Page: [Tech4Diet](https://tech4d.ua.es/) \
 Full Paper: <!-- TODO: Replace with our arxiv/journal link -->
 
 ## License 
@@ -16,7 +16,7 @@ Accurate 3D reconstruction using multi-camera RGB-D systems critically depends o
 </p>
 
 ## Content
-Code tested on Matlab R2018b on Ubuntu 20.04.6
+The provided code has been tested with Matlab R2018b on Ubuntu 20.04.6.
 
 Dataset Sample: [Tech4Diet Cubes Dataset]()
 
@@ -50,5 +50,5 @@ This work has been funded by the Spanish State Research Agency (AEI) through the
 For questions or commercial licensing (and all related questions for business applications), please contact:
 - [nahuel.garcia@ua.es](mailto:nahuel.garcia@ua.es)
 - [fuster@ua.es](mailto:fuster@ua.es)
-- [jazorin@ua.es](mailto:jazorin@ua.es). 
+- [jazorin@ua.es](mailto:jazorin@ua.es)
 
