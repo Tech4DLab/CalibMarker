@@ -1,10 +1,11 @@
 # Marker-Based Extrinsic Calibration Method for Accurate Multi-Camera 3D Reconstruction
 
 Project Page:[Tech4Diet](https://tech4d.ua.es/)
+
 Full Paper: <!-- TODO: Replace with our arxiv/journal link -->
 
 <p align="center">
-  <img src="./images/pipeline.png" />
+  <img src="./Figures/pipeline.png" />
 </p>
 
 ## License 
