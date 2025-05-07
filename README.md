@@ -12,10 +12,10 @@ Software Copyright License for non-commercial scientific research purposes.
 Accurate 3D reconstruction using multi-camera RGB-D systems critically depends on precise extrinsic calibration to achieve proper alignment between captured views. In this paper, we introduce an iterative extrinsic calibration method that leverages the geometric constraints provided by a three-dimensional marker to significantly improve calibration accuracy. Our proposed approach systematically segments and refines marker planes through clustering, regression analysis, and iterative reassignment techniques, ensuring robust geometric correspondence across camera views. We validate our method comprehensively in both controlled environments and practical real-world settings within the Tech4Diet project, aimed at modeling the physical progression of patients undergoing nutritional treatments. Experimental results demonstrate substantial reductions in alignment errors, facilitating accurate and reliable 3D reconstructions.
 
 <p align="center">
-  <img src="./Figures/Pipeline.png" />
+  <img src="/Figures/Pipeline.png" />
 </p>
 
-![Figure 1. Pipeline](./Figures/Pipeline.png)
+![Figure 1. Pipeline](/Figures/Pipeline.png)
 
 ## Content
 The provided code has been tested with Matlab R2018b on Ubuntu 20.04.6.
