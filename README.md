@@ -15,6 +15,8 @@ Accurate 3D reconstruction using multi-camera RGB-D systems critically depends o
   <img src="./Figures/Pipeline.png" />
 </p>
 
+![Figure 1. Pipeline](./Figures/Pipeline.png)
+
 ## Content
 The provided code has been tested with Matlab R2018b on Ubuntu 20.04.6.
 
